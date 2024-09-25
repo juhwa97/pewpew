@@ -64,6 +64,8 @@ body::-webkit-scrollbar-button {
     width: 1900px;
     margin: 0 auto;
     overflow: hidden;
+	min-width: 1900px;
+}
 }
 
 /* header start */
