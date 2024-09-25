@@ -86,7 +86,8 @@ body::-webkit-scrollbar-button {
     z-index: 9;
     position: absolute;
     top: 30px;
-    left: center;
+    left: 50%;
+    margin-left: -650px;
     display: flex;
 }
 
