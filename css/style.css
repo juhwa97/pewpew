@@ -808,6 +808,7 @@ body::-webkit-scrollbar-button {
 
 .footer {
     position: relative;
+	color: #151515;
 }
 
 .footer_cloud {
